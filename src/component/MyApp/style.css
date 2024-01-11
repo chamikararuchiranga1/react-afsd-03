@@ -1,0 +1,13 @@
+.my-app {
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
